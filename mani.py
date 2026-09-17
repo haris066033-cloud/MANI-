@@ -1,1 +1,1 @@
-print("hollo,world!")
+maniprint("hollo,world!")
